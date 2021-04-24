@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends in media
 ---
 
 ### Outcomes vs Categories
-![Outcomes vs Categories](Outcomes vs Subcategories.png)
+![Outcomes vs Categories](./Outcomes vs Subcategories.png)
 
 ### Outcomes vs Subcategories
 ![Outcomes vs Subcategories](S:\Berkeley Boot Camp\Classwork\Module 1\Outcomes vs Subcategories.png)
