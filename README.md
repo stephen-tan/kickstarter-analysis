@@ -22,7 +22,7 @@ Out of 69% of all theater campaigns held (1,042), more than 73% (528) of them we
 
 ## Results
 
-- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?** <br />
 More theater campaigns were held during the summer months, and more of them proved to be successful.
 
 - **What can you conclude about the Outcomes based on Goals?** <br />
@@ -35,9 +35,8 @@ The data set only contains data from 2009 through 2017, so there is fairly limit
 A good table and graph to visualize would be between campaign fundraising duration and the outcome of that campaign. Since the analysis was only performed on the relationship between fundraising goal and outcome, it would be interesting to see if duration vs outcome would agree with the results from goal vs outcome. Another visualtion would be to see outcomes based on year, to see if there was any relationship between successful campaigns and the impact of Kickstarter popularity over the course of the dataset.
 
 ---
-Pre-challenge work
 
-# An Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns (Pre-Challenge Work)
 Performing analysis on Kickstarter data to uncover trends in media
 ---
 
